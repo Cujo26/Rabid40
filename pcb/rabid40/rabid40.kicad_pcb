@@ -265,7 +265,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 09cf2a33-f599-451d-be60-16704b8ea682)
-    (at 153.63125 117.9125)
+    (at 46.83125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/d335d68d-cbe0-4554-9fd8-70059ec50ed0")
@@ -495,7 +495,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 114cbede-7d32-47bb-9493-8254f8da7c6f)
-    (at 52.63125 77.5125)
+    (at 161.13125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/0694461d-e43e-4565-9358-5d5c79ce9b3d")
@@ -762,7 +762,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 2880d358-116b-48ff-82ff-9352314f297e)
-    (at 113.23125 57.3125)
+    (at 256.38125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/816928e3-4e70-44d8-80dd-c980be2d36fb")
@@ -1450,7 +1450,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 554820f8-ffd9-4739-9347-81f4e1902769)
-    (at 194.03125 57.3125)
+    (at 237.33125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/c8f34b04-a167-4963-bc42-483b5d429a66")
@@ -1590,7 +1590,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 5eccf766-4979-48f5-98ba-8a0b913503b6)
-    (at 52.63125 57.3125)
+    (at 142.08125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/04a07f6a-80a4-4f7c-b9b5-dc8b99158145")
@@ -1680,7 +1680,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 6321b8c6-a3d8-445c-8b99-0b0279d6073f)
-    (at 194.03125 117.9125)
+    (at 27.78125 45.24375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/7bec92e9-34b9-4cde-83c2-7ed912e4be8c")
@@ -1720,7 +1720,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 64019448-96fa-4d3d-af1a-1df974abaeb5)
-    (at 173.83125 77.5125)
+    (at 65.88125 45.24375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/48f39cb3-cdc9-46f8-8709-5a75c550cd1e")
@@ -1810,7 +1810,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 7151fb51-0b19-47fc-8ea7-91f80d18a50f)
-    (at 113.23125 138.1125)
+    (at 277.01875 85.725)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/b18af343-2c5a-4b5a-971e-26c5d812bfc1")
@@ -2070,7 +2070,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 79aa7e74-314a-41f6-b395-e49ee4b5cec8)
-    (at 113.23125 117.9125)
+    (at 180.18125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/a2d3d0e9-6e4b-46e1-8d50-be766a23e378")
@@ -2200,7 +2200,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 80fab8c2-5cb2-4226-aad2-cbf6ffc920ee)
-    (at 93.03125 57.3125)
+    (at 65.88125 73.81875)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/f2e095e5-6488-4039-9848-cbd14a776b43")
@@ -2320,7 +2320,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 88028c7b-dc51-4e14-88d1-97fe7dbc274f)
-    (at 173.83125 138.1125)
+    (at 189.70625 138.1125)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/e8ea1e50-4a33-457c-b82b-43b9372b1d95")
@@ -2837,7 +2837,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp 98941a49-c53b-495b-8e3b-e0b569e9178d)
-    (at 153.63125 158.3125)
+    (at 46.83125 45.24375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/e6f7da89-4156-4a53-ab07-0d9f7a41fa18")
@@ -3007,7 +3007,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp a308d876-558b-433f-b175-07c3ecd26505)
-    (at 194.03125 97.7125)
+    (at 123.03125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/8dcef6d7-210f-4340-ab57-3e9fefbb1a0d")
@@ -3377,7 +3377,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp b724db13-0ead-453d-a5f8-a45acec7c253)
-    (at 93.03125 138.1125)
+    (at 84.93125 45.24375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/a1c3166b-1022-4a52-837c-7db4ae55816d")
@@ -3457,7 +3457,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp bc851682-b593-4afd-a536-daf610e7a9d5)
-    (at 72.83125 57.3125)
+    (at 42.06875 73.025)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/f2cf60f5-8512-46af-b4d5-64f525c2affb")
@@ -3621,7 +3621,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp bfa999be-aa68-43b3-8410-1af59772d505)
-    (at 173.83125 97.7125)
+    (at 103.98125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/dc63f36f-cc89-4cc0-a108-b53e011fad4c")
@@ -3977,7 +3977,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp c6c44eda-179a-4c58-8924-1c2173faa021)
-    (at 133.43125 77.5125)
+    (at 84.93125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/33738c1a-a6bb-4dc5-9ca7-ad06f8c750c1")
@@ -4479,7 +4479,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp de76506a-da2f-4a42-b00c-78532a010239)
-    (at 133.43125 158.3125)
+    (at 218.28125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/63b0029d-66cf-4715-ae0d-3af27fb48897")
@@ -4669,7 +4669,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp e573da95-830d-4dac-85bf-85478c9b6128)
-    (at 72.83125 77.5125)
+    (at 65.88125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/097b0793-b65f-4df8-b1f7-041231eff8f3")
@@ -4983,7 +4983,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp f70f8730-d7e1-4f2e-a3c9-043a4699d8b2)
-    (at 194.03125 77.5125)
+    (at 27.78125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/5fbcb585-4408-47ba-abcf-167a0a1c081e")
@@ -5073,7 +5073,7 @@
 
   (footprint "MX_Alps_Hybrid:MX-1U-NoLED" (layer "F.Cu")
     (tedit 5A9F5203) (tstamp f971d30b-5d72-4bf5-9387-675d3b943fd4)
-    (at 52.63125 158.3125)
+    (at 199.23125 26.19375)
     (property "Sheetfile" "rabid40.kicad_sch")
     (property "Sheetname" "")
     (path "/26d68bd6-a75c-448f-bdff-db40281ffb26")
