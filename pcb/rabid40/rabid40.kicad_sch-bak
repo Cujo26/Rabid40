@@ -2579,7 +2579,7 @@
     (property "Reference" "C7" (id 0) (at 53.34 157.4735 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "10uF" (id 1) (at 53.34 160.0135 0)
+    (property "Value" "0.1uF" (id 1) (at 53.34 160.0135 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (id 2) (at 50.8 158.75 0)
@@ -4778,7 +4778,7 @@
       (reference "C6") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/210e289f-96fc-4fc6-b33a-b43e11937399"
-      (reference "C7") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C7") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/99f1158c-a186-44bb-8404-6b7c95d451ec"
       (reference "C8") (unit 1) (value "MX-NoLED") (footprint "MX_Alps_Hybrid:MX-1U")
