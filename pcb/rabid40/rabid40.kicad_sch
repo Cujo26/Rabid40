@@ -3296,7 +3296,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 257.81 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 123cb786-1404-4419-9e7c-6fa41ccbc4d8)
-    (property "Reference" "Enter1" (id 0) (at 257.81 109.22 0))
+    (property "Reference" "ENTER1" (id 0) (at 257.81 109.22 0))
     (property "Value" "MX_SW_solder" (id 1) (at 257.81 111.76 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 257.81 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3471,7 +3471,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 257.81 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f2fbd4e-5016-4fe3-9948-95fb6fac773e)
-    (property "Reference" "Shift3" (id 0) (at 257.81 128.27 0))
+    (property "Reference" "SHIFT3" (id 0) (at 257.81 128.27 0))
     (property "Value" "MX_SW_solder" (id 1) (at 257.81 130.81 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 257.81 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3608,7 +3608,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 160.02 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2b0bdb73-e715-4c0c-ad52-3bcc2ba57fd4)
-    (property "Reference" "Space2.25" (id 0) (at 160.02 147.32 0))
+    (property "Reference" "SPACE2.25" (id 0) (at 160.02 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 160.02 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 160.02 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3984,7 +3984,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 90.17 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 530f2645-68f8-4f36-9cf2-a4d630bd94b4)
-    (property "Reference" "Ctrl1" (id 0) (at 90.17 109.22 0))
+    (property "Reference" "CTRL1" (id 0) (at 90.17 109.22 0))
     (property "Value" "MX_SW_solder" (id 1) (at 90.17 111.76 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1.75u" (id 2) (at 90.17 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -3999,7 +3999,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 243.84 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 5515ccdf-c96a-480b-a29f-134eff07c36d)
-    (property "Reference" "Shift2" (id 0) (at 243.84 128.27 0))
+    (property "Reference" "SHIFT2" (id 0) (at 243.84 128.27 0))
     (property "Value" "MX_SW_solder" (id 1) (at 243.84 130.81 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 243.84 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4012,9 +4012,9 @@
   )
 
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 271.78 135.89 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 573b5159-bb7a-4d98-b062-32dcf839365c)
-    (property "Reference" "Fn1" (id 0) (at 271.78 128.27 0))
+    (property "Reference" "FN1" (id 0) (at 271.78 128.27 0))
     (property "Value" "MX_SW_solder" (id 1) (at 271.78 130.81 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 271.78 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4458,7 +4458,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 132.08 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 74623ae2-505e-4d35-9853-fc31ad19f085)
-    (property "Reference" "Alt1" (id 0) (at 132.08 147.32 0))
+    (property "Reference" "ALT1" (id 0) (at 132.08 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 132.08 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 132.08 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4526,7 +4526,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 81.28 116.84 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 75e01c1f-9cbb-4f62-8fdb-2970ab79d393)
-    (property "Reference" "StepCtrl1" (id 0) (at 81.28 109.22 0))
+    (property "Reference" "STEPCTRL1" (id 0) (at 81.28 109.22 0))
     (property "Value" "MX_SW_solder" (id 1) (at 81.28 111.76 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1.75u_stp" (id 2) (at 81.28 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4727,7 +4727,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 215.9 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8fa5afe9-68d9-46d0-a3ed-3f653ffb3f48)
-    (property "Reference" "Alt2" (id 0) (at 215.9 147.32 0))
+    (property "Reference" "ALT2" (id 0) (at 215.9 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 215.9 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 215.9 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4776,7 +4776,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 90.17 97.79 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 951a2cf0-d74d-459c-a15a-b7ac104b24f3)
-    (property "Reference" "Tab1" (id 0) (at 90.17 90.17 0))
+    (property "Reference" "TAB1" (id 0) (at 90.17 90.17 0))
     (property "Value" "MX_SW_solder" (id 1) (at 90.17 92.71 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1.5u" (id 2) (at 90.17 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -4966,7 +4966,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 187.96 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid a96b44fb-325a-4e54-866c-8a4418bcb036)
-    (property "Reference" "Space2.75" (id 0) (at 187.96 147.32 0))
+    (property "Reference" "SPACE2.75" (id 0) (at 187.96 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 187.96 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 187.96 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5062,7 +5062,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 90.17 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b1bf4353-47ee-4c51-b44a-712ec40d25ad)
-    (property "Reference" "Shift1" (id 0) (at 90.17 128.27 0))
+    (property "Reference" "SHIFT1" (id 0) (at 90.17 128.27 0))
     (property "Value" "MX_SW_solder" (id 1) (at 90.17 130.81 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 90.17 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5172,7 +5172,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 229.87 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bc2c8f96-282f-4f65-bd7f-6fcc7e09aa4a)
-    (property "Reference" "Win2" (id 0) (at 229.87 147.32 0))
+    (property "Reference" "WIN2" (id 0) (at 229.87 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 229.87 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 229.87 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5205,7 +5205,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 271.78 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid bf529c17-1f7d-4b6a-952f-9bf0e5a17f8e)
-    (property "Reference" "Bspc1" (id 0) (at 271.78 90.17 0))
+    (property "Reference" "BSPC1" (id 0) (at 271.78 90.17 0))
     (property "Value" "MX_SW_solder" (id 1) (at 271.78 92.71 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1.5u" (id 2) (at 271.78 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5509,7 +5509,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 146.05 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid d07c1f08-c461-4bed-a76e-83350d3dbc18)
-    (property "Reference" "LMod1" (id 0) (at 146.05 147.32 0))
+    (property "Reference" "LMOD1" (id 0) (at 146.05 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 146.05 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 146.05 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5676,7 +5676,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 201.93 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid dca0d761-54a8-4228-b4c0-ecdd375c8e4e)
-    (property "Reference" "RMod1" (id 0) (at 201.93 147.32 0))
+    (property "Reference" "RMOD11" (id 0) (at 201.93 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 201.93 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 201.93 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -5864,7 +5864,7 @@
     (property "Value" "Conn_01x04" (id 1) (at 264.16 27.9399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal" (id 2) (at 261.62 25.4 0)
+    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 261.62 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 261.62 25.4 0)
@@ -5993,7 +5993,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 118.11 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid fe4aa9ef-71c0-4e13-bf79-35edb59bdb23)
-    (property "Reference" "Win1" (id 0) (at 118.11 147.32 0))
+    (property "Reference" "WIN1" (id 0) (at 118.11 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 118.11 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 118.11 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6008,7 +6008,7 @@
   (symbol (lib_id "marbastlib-mx:MX_SW_solder") (at 173.99 154.94 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ff4879f2-23b3-4e04-ad45-774dbf44ed91)
-    (property "Reference" "Space_7u1" (id 0) (at 173.99 147.32 0))
+    (property "Reference" "SPACE_7u1" (id 0) (at 173.99 147.32 0))
     (property "Value" "MX_SW_solder" (id 1) (at 173.99 149.86 0))
     (property "Footprint" "marbastlib-mx:SW_MX_1u" (id 2) (at 173.99 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -6152,16 +6152,16 @@
       (reference "A1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/74623ae2-505e-4d35-9853-fc31ad19f085"
-      (reference "Alt1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "ALT1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/8fa5afe9-68d9-46d0-a3ed-3f653ffb3f48"
-      (reference "Alt2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "ALT2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/4c9e6827-ca04-4d9a-91a4-451c889a2db8"
       (reference "B1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/bf529c17-1f7d-4b6a-952f-9bf0e5a17f8e"
-      (reference "Bspc1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+      (reference "BSPC1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/cf01e649-dd1e-4bd2-8783-1a7322c14740"
       (reference "C1") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0402_1005Metric")
@@ -6218,7 +6218,7 @@
       (reference "C18") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/530f2645-68f8-4f36-9cf2-a4d630bd94b4"
-      (reference "Ctrl1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.75u")
+      (reference "CTRL1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.75u")
     )
     (path "/5a390e98-f077-4f9a-9c2f-86faa1666f08"
       (reference "D1") (unit 1) (value "1N4148W") (footprint "Diode_SMD:D_SOD-123")
@@ -6374,7 +6374,7 @@
       (reference "E1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/123cb786-1404-4419-9e7c-6fa41ccbc4d8"
-      (reference "Enter1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "ENTER1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/6a59e088-86f1-487d-9793-a6cef63c01c2"
       (reference "F1") (unit 1) (value "500mA") (footprint "Fuse:Fuse_1206_3216Metric")
@@ -6383,7 +6383,7 @@
       (reference "F2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/573b5159-bb7a-4d98-b062-32dcf839365c"
-      (reference "Fn1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "FN1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/e14b7dc6-1ccd-469f-b527-f232115dde06"
       (reference "G1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -6398,7 +6398,7 @@
       (reference "J1") (unit 1) (value "SWD") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical")
     )
     (path "/f1c3b716-e247-4550-ba0f-ff8a0fda7618"
-      (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/6ed86549-f7d4-414b-9f94-0cb86b7bd96b"
       (reference "J3") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -6410,7 +6410,7 @@
       (reference "L1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/d07c1f08-c461-4bed-a76e-83350d3dbc18"
-      (reference "LMod1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "LMOD1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/4a73d129-5285-4013-be70-4c1bdbe8f37f"
       (reference "M1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
@@ -6446,31 +6446,34 @@
       (reference "R6") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/dca0d761-54a8-4228-b4c0-ecdd375c8e4e"
-      (reference "RMod1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "RMOD11") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/1f030b6c-66e0-4f7b-9a81-65511c755d1f"
       (reference "S1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
-    (path "/f2db29bf-f0e1-43cb-86ac-61eeab724da5"
-      (reference "SW7") (unit 1) (value "SW_Push") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
-    )
     (path "/b1bf4353-47ee-4c51-b44a-712ec40d25ad"
-      (reference "Shift1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SHIFT1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/5515ccdf-c96a-480b-a29f-134eff07c36d"
-      (reference "Shift2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SHIFT2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/1f2fbd4e-5016-4fe3-9948-95fb6fac773e"
-      (reference "Shift3") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SHIFT3") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/2b0bdb73-e715-4c0c-ad52-3bcc2ba57fd4"
-      (reference "Space2.25") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SPACE2.25") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/a96b44fb-325a-4e54-866c-8a4418bcb036"
-      (reference "Space2.75") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SPACE2.75") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/ff4879f2-23b3-4e04-ad45-774dbf44ed91"
-      (reference "Space_7u1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "SPACE_7u1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+    )
+    (path "/75e01c1f-9cbb-4f62-8fdb-2970ab79d393"
+      (reference "STEPCTRL1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.75u_stp")
+    )
+    (path "/f2db29bf-f0e1-43cb-86ac-61eeab724da5"
+      (reference "SW7") (unit 1) (value "SW_Push") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical")
     )
     (path "/38f579c5-c316-4606-83f5-181c592d94ff"
       (reference "Stab_Enter1") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_2.25u")
@@ -6490,14 +6493,11 @@
     (path "/1718cfec-9d0b-4493-9249-91cc6813c904"
       (reference "Stab_Spc7u1") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_7u")
     )
-    (path "/75e01c1f-9cbb-4f62-8fdb-2970ab79d393"
-      (reference "StepCtrl1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.75u_stp")
-    )
     (path "/cde22134-9225-4935-bd29-e8fd3ec33da7"
       (reference "T1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/951a2cf0-d74d-459c-a15a-b7ac104b24f3"
-      (reference "Tab1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
+      (reference "TAB1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1.5u")
     )
     (path "/710579f4-1668-484a-ab9c-431d9becda44"
       (reference "U1") (unit 1) (value "RP2040") (footprint "Sleep-lib:RP2040-QFN-56")
@@ -6518,10 +6518,10 @@
       (reference "W1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/fe4aa9ef-71c0-4e13-bf79-35edb59bdb23"
-      (reference "Win1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "WIN1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/bc2c8f96-282f-4f65-bd7f-6fcc7e09aa4a"
-      (reference "Win2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
+      (reference "WIN2") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")
     )
     (path "/e36a765d-6c76-47e5-ba3c-c456fc630e1c"
       (reference "X1") (unit 1) (value "MX_SW_solder") (footprint "marbastlib-mx:SW_MX_1u")

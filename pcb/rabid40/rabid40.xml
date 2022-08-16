@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\malco\repos\Rabid40\pcb\rabid40\rabid40.kicad_sch</source>
-    <date>2022/08/11 01:42:21</date>
+    <source>C:\Users\malco\repos\rabid40\pcb\rabid40\rabid40.kicad_sch</source>
+    <date>2022/08/16 14:10:37</date>
     <tool>Eeschema (6.0.6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -78,7 +78,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>044a6d82-0837-49f8-b598-6d5efa2016f7</tstamps>
     </comp>
-    <comp ref="Alt1">
+    <comp ref="ALT1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -87,7 +87,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>74623ae2-505e-4d35-9853-fc31ad19f085</tstamps>
     </comp>
-    <comp ref="Alt2">
+    <comp ref="ALT2">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -105,7 +105,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>4c9e6827-ca04-4d9a-91a4-451c889a2db8</tstamps>
     </comp>
-    <comp ref="Bspc1">
+    <comp ref="BSPC1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1.5u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -348,7 +348,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d621a06c-ab99-4230-ba3a-fea4efe43f5a</tstamps>
     </comp>
-    <comp ref="Ctrl1">
+    <comp ref="CTRL1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1.75u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -865,7 +865,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>620e1d31-4890-4780-a92c-f0bf630f0ebe</tstamps>
     </comp>
-    <comp ref="Enter1">
+    <comp ref="ENTER1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -896,7 +896,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>f547f730-9120-4e2c-943a-954e7d268770</tstamps>
     </comp>
-    <comp ref="Fn1">
+    <comp ref="FN1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -934,7 +934,7 @@
     </comp>
     <comp ref="J2">
       <value>Conn_01x04</value>
-      <footprint>Connector_JST:JST_EH_S4B-EH_1x04_P2.50mm_Horizontal</footprint>
+      <footprint>Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal</footprint>
       <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="rabid40.kicad_sch"/>
@@ -968,7 +968,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61f9be88-1c0e-40fd-9673-d6fccf44a8b0</tstamps>
     </comp>
-    <comp ref="LMod1">
+    <comp ref="LMOD1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1096,7 +1096,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>18265ee1-0971-4ccf-aee7-496f89552bfe</tstamps>
     </comp>
-    <comp ref="RMod1">
+    <comp ref="RMOD11">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1114,7 +1114,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1f030b6c-66e0-4f7b-9a81-65511c755d1f</tstamps>
     </comp>
-    <comp ref="Shift1">
+    <comp ref="SHIFT1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1123,7 +1123,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b1bf4353-47ee-4c51-b44a-712ec40d25ad</tstamps>
     </comp>
-    <comp ref="Shift2">
+    <comp ref="SHIFT2">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1132,7 +1132,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>5515ccdf-c96a-480b-a29f-134eff07c36d</tstamps>
     </comp>
-    <comp ref="Shift3">
+    <comp ref="SHIFT3">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1141,7 +1141,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1f2fbd4e-5016-4fe3-9948-95fb6fac773e</tstamps>
     </comp>
-    <comp ref="Space2.25">
+    <comp ref="SPACE2.25">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1150,7 +1150,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>2b0bdb73-e715-4c0c-ad52-3bcc2ba57fd4</tstamps>
     </comp>
-    <comp ref="Space2.75">
+    <comp ref="SPACE2.75">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1159,7 +1159,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>a96b44fb-325a-4e54-866c-8a4418bcb036</tstamps>
     </comp>
-    <comp ref="Space_7u1">
+    <comp ref="SPACE_7u1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1222,7 +1222,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1718cfec-9d0b-4493-9249-91cc6813c904</tstamps>
     </comp>
-    <comp ref="StepCtrl1">
+    <comp ref="STEPCTRL1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1.75u_stp</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1240,7 +1240,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cde22134-9225-4935-bd29-e8fd3ec33da7</tstamps>
     </comp>
-    <comp ref="Tab1">
+    <comp ref="TAB1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1.5u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1318,7 +1318,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6a4cb395-ad86-45fe-894a-cb0811871860</tstamps>
     </comp>
-    <comp ref="Win1">
+    <comp ref="WIN1">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1327,7 +1327,7 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fe4aa9ef-71c0-4e13-bf79-35edb59bdb23</tstamps>
     </comp>
-    <comp ref="Win2">
+    <comp ref="WIN2">
       <value>MX_SW_solder</value>
       <footprint>marbastlib-mx:SW_MX_1u</footprint>
       <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
@@ -1680,7 +1680,7 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
     <library logical="marbastlib-mx">
-      <uri>C:/Users/malco/repos/rabid40/marbastlib/marbastlib-mx.kicad_sym</uri>
+      <uri>C:\Users\malco\repos\marbastlib\marbastlib-mx.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
@@ -1744,10 +1744,10 @@
       <node ref="U2" pin="1" pinfunction="~{CS}" pintype="input"/>
     </net>
     <net code="14" name="Col0">
-      <node ref="Ctrl1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Shift1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="StepCtrl1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Tab1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="CTRL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SHIFT1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="STEPCTRL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TAB1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="27" pinfunction="GPIO16" pintype="input"/>
     </net>
     <net code="15" name="Col1">
@@ -1760,11 +1760,11 @@
       <node ref="S1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="29" pinfunction="GPIO18" pintype="input"/>
       <node ref="W1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Win1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="WIN1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="17" name="Col3">
-      <node ref="Alt1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="ALT1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="C18" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="D46" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="E1" pin="1" pinfunction="1" pintype="passive"/>
@@ -1772,7 +1772,7 @@
     </net>
     <net code="18" name="Col4">
       <node ref="F2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="LMod1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="LMOD1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="R6" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="35" pinfunction="GPIO23" pintype="input"/>
       <node ref="V1" pin="1" pinfunction="1" pintype="passive"/>
@@ -1780,21 +1780,21 @@
     <net code="19" name="Col5">
       <node ref="B1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="G1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Space2.25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SPACE2.25" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="T1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="2" pinfunction="GPIO0" pintype="input"/>
     </net>
     <net code="20" name="Col6">
       <node ref="H1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="N1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Space_7u1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SPACE_7u1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="3" pinfunction="GPIO1" pintype="input"/>
       <node ref="Y2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="21" name="Col7">
       <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="M1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Space2.75" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SPACE2.75" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="4" pinfunction="GPIO2" pintype="input"/>
       <node ref="U4" pin="1" pinfunction="1" pintype="passive"/>
     </net>
@@ -1802,12 +1802,12 @@
       <node ref="&lt;1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="I1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="K1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="RMod1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RMOD11" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="GPIO3" pintype="input"/>
     </net>
     <net code="23" name="Col9">
       <node ref="&gt;1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Alt2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="ALT2" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="O1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="6" pinfunction="GPIO4" pintype="input"/>
@@ -1817,7 +1817,7 @@
       <node ref=";1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="P1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="7" pinfunction="GPIO5" pintype="input"/>
-      <node ref="Win2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="WIN2" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="25" name="Col11">
       <node ref="'1" pin="1" pinfunction="1" pintype="passive"/>
@@ -1825,15 +1825,15 @@
       <node ref="[1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="26" name="Col12">
-      <node ref="Enter1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Shift2" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Shift3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="ENTER1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SHIFT2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SHIFT3" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="9" pinfunction="GPIO7" pintype="input"/>
       <node ref="]1" pin="1" pinfunction="1" pintype="passive"/>
     </net>
     <net code="27" name="Col13">
-      <node ref="Bspc1" pin="1" pinfunction="1" pintype="passive"/>
-      <node ref="Fn1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="BSPC1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="FN1" pin="1" pinfunction="1" pintype="passive"/>
       <node ref="U1" pin="11" pinfunction="GPIO8" pintype="input"/>
     </net>
     <net code="28" name="D_N">
@@ -1894,38 +1894,38 @@
       <node ref="A1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="37" name="Net-(Alt1-Pad2)">
-      <node ref="Alt1" pin="2" pinfunction="2" pintype="passive"/>
+    <net code="37" name="Net-(ALT1-Pad2)">
+      <node ref="ALT1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="38" name="Net-(Alt2-Pad2)">
-      <node ref="Alt2" pin="2" pinfunction="2" pintype="passive"/>
+    <net code="38" name="Net-(ALT2-Pad2)">
+      <node ref="ALT2" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
     </net>
     <net code="39" name="Net-(B1-Pad2)">
       <node ref="B1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="40" name="Net-(Bspc1-Pad2)">
-      <node ref="Bspc1" pin="2" pinfunction="2" pintype="passive"/>
+    <net code="40" name="Net-(BSPC1-Pad2)">
+      <node ref="BSPC1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
     </net>
     <net code="41" name="Net-(C18-Pad2)">
       <node ref="C18" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
     </net>
-    <net code="42" name="Net-(Ctrl1-Pad2)">
-      <node ref="Ctrl1" pin="2" pinfunction="2" pintype="passive"/>
+    <net code="42" name="Net-(CTRL1-Pad2)">
+      <node ref="CTRL1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="StepCtrl1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="STEPCTRL1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="43" name="Net-(D1-Pad2)">
       <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Tab1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TAB1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="44" name="Net-(D3-Pad2)">
       <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Shift1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SHIFT1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="45" name="Net-(D4-Pad2)">
       <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
@@ -1949,7 +1949,7 @@
     </net>
     <net code="50" name="Net-(D10-Pad2)">
       <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Win1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="WIN1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="51" name="Net-(D11-Pad2)">
       <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
@@ -1973,7 +1973,7 @@
     </net>
     <net code="56" name="Net-(D18-Pad2)">
       <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="LMod1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="LMOD1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="57" name="Net-(D19-Pad2)">
       <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
@@ -1985,7 +1985,7 @@
     </net>
     <net code="59" name="Net-(D22-Pad2)">
       <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Space2.25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SPACE2.25" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="60" name="Net-(D23-Pad2)">
       <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
@@ -2001,7 +2001,7 @@
     </net>
     <net code="63" name="Net-(D26-Pad2)">
       <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Space_7u1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SPACE_7u1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="64" name="Net-(D27-Pad2)">
       <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
@@ -2017,7 +2017,7 @@
     </net>
     <net code="67" name="Net-(D30-Pad2)">
       <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Space2.75" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SPACE2.75" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="68" name="Net-(D31-Pad2)">
       <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
@@ -2029,7 +2029,7 @@
     </net>
     <net code="70" name="Net-(D34-Pad2)">
       <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="RMod1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="RMOD11" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="71" name="Net-(D35-Pad2)">
       <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
@@ -2045,7 +2045,7 @@
     </net>
     <net code="74" name="Net-(D42-Pad2)">
       <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Win2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="WIN2" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="75" name="Net-(D43-Pad2)">
       <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
@@ -2057,16 +2057,16 @@
     </net>
     <net code="77" name="Net-(D48-Pad2)">
       <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Enter1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="ENTER1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="78" name="Net-(D49-Pad2)">
       <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Shift2" pin="2" pinfunction="2" pintype="passive"/>
-      <node ref="Shift3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SHIFT2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SHIFT3" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="79" name="Net-(D52-Pad2)">
       <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
-      <node ref="Fn1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="FN1" pin="2" pinfunction="2" pintype="passive"/>
     </net>
     <net code="80" name="QSPI_CLK">
       <node ref="U1" pin="52" pinfunction="QSPI_SCLK" pintype="input"/>
