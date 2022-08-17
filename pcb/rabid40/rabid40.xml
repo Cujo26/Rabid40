@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>C:\Users\malco\repos\rabid40\pcb\rabid40\rabid40.kicad_sch</source>
-    <date>2022/08/16 14:10:37</date>
+    <source>C:\Users\malco\repos\Rabid40\pcb\rabid40\rabid40.kicad_sch</source>
+    <date>2022/08/17 20:58:15</date>
     <tool>Eeschema (6.0.6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -1680,7 +1680,7 @@
       <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Switch.kicad_sym</uri>
     </library>
     <library logical="marbastlib-mx">
-      <uri>C:\Users\malco\repos\marbastlib\marbastlib-mx.kicad_sym</uri>
+      <uri>C:/Users/malco/repos/marbastlib/marbastlib-mx.kicad_sym</uri>
     </library>
   </libraries>
   <nets>
